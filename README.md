@@ -212,8 +212,8 @@ The dashboard enables users to explore questions such as:
 
 ## 👩‍💻 Author
 
-Ritika Moolya
-Bachelor of Computer Applications (BCA)
+Ritika Moolya  
+Bachelor of Computer Applications (BCA)  
 Interested in Data Analytics, Data Science, and Business Intelligence
 
 ---
