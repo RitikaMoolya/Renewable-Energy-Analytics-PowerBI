@@ -215,3 +215,7 @@ The dashboard enables users to explore questions such as:
 Ritika Moolya
 Bachelor of Computer Applications (BCA)
 Interested in Data Analytics, Data Science, and Business Intelligence
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
