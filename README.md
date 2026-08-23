@@ -97,7 +97,7 @@ A dedicated **Country Tooltip** provides a detailed renewable energy snapshot wh
 
 The dataset used in this project was obtained from **Kaggle**.
 
-**Source:** Kaggle
+**Source:** https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset
 
 ---
 
